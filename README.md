@@ -18,9 +18,19 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 2007 - Create an archives access system for institutions. Release it as free and open-source software to encourage adoption and mutual shared benefits: [ICA-AtoM](https://ica-atom.org)
 
+-------
+
 2009 - Present findings of the ICA-AtoM prototyping work as a [paper at the Association of Brazilian Archivists](https://vangarderen.net/assets/pdfs/VanGarderen_TheICA-AtoMProjectAndTechnology_AAB_RioDeJaniero_16-17March2009.pdf) conference in Rio de Janiero.
 
 2009 - Transition my consulting practice [Artefactual Systems](https://artefactual.com) to a software development and maintenance firm to support users of [AccessToMemory.org](https://accesstomemory.org)
 
 -------
 
+2009 - Begin research and development for a "back-end" digital preservation component to integrate with AtoM.
+
+
+<img width="80%" alt="Screenshot 2024-07-17 at 4 40 13 AM" src="https://github.com/user-attachments/assets/ce630741-073a-4f48-9f55-b3b680ce99af">
+
+
+
+2010 - 
