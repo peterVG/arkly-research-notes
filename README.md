@@ -44,5 +44,10 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 -------
 
+# How it's going
+
+2022 - [Landano: improving land records to fight poverty](https://www.landano.io/project/land%20rights/2022/09/04/improving-land-records-to-fight-poverty/)
+2023 - [Orcfax - the trust machine revisited](https://medium.com/coinmonks/orcfax-the-trust-machine-revisited-c475dbb0a5d6)
+
 
 
