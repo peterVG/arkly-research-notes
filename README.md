@@ -20,7 +20,7 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 2009 - Present findings of the ICA-AtoM prototyping work as a [paper at the Association of Brazilian Archivists](https://vangarderen.net/assets/pdfs/VanGarderen_TheICA-AtoMProjectAndTechnology_AAB_RioDeJaniero_16-17March2009.pdf) conference in Rio de Janiero.
 
-2009 - Transition my consulting practice [Artefactual Systems] to a software development and maintenance firm to support users of [AccessToMemory.org](https://accesstomemory.org)
+2009 - Transition my consulting practice [Artefactual Systems](https://artefactual.com) to a software development and maintenance firm to support users of [AccessToMemory.org](https://accesstomemory.org)
 
 -------
 
