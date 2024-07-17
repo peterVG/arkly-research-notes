@@ -1,4 +1,4 @@
-# Arkly research notes
+d# Arkly research notes
 The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of several years of archival science research and development carried out by @peterVG.
 
 # How it started
@@ -39,4 +39,10 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 2016 - Research the potential value of blockchain technology for use in archives management software. [Report on early findings](https://www.slideshare.net/slideshow/introduction-to-blockchain-and-recordkeeping/59283106) to the Australian Record-Keeping Roundtable.
 
 2016 - Publish the "[Decentralized Autonomous Collections](https://vangarderen.net/posts/decentralized-autonomous-collections.html)" Medium article to present the concept of self-sustaining, non-institutional archival collections.
+
+2016 - Contextualize my research and development on archives access systems against the wider backdrop of technology and innovation as a [plenary address to the Association of Canadian Archivists' conference](https://vangarderen.net/posts/archives-technology-and-innovation.html) in Montreal, Canada.
+
+-------
+
+
 
