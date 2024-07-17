@@ -1,4 +1,4 @@
-d# Arkly research notes
+# Arkly research notes
 The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of several years of archival science research and development carried out by @peterVG.
 
 # How it started
