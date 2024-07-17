@@ -12,5 +12,7 @@ The Arkly.io [concept](https://arkly.io/about) is the outcome of several years o
 
 2007 - Opening chapters to define the domain of archives access systems
 - [Archival materials: A practical definition](https://vangarderen.net/posts/archival-materials-a-practical-definition.html)
+
+
 - [What is information anyway?](https://vangarderen.net/posts/what-is-information-anyway.html)
 
