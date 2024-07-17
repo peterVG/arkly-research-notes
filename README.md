@@ -28,9 +28,6 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 2009 - Begin research and development for a "back-end" digital preservation component to integrate with AtoM.
 
+<a href="https://vangarderen.net/assets/pdfs/IDCC2010-Archivematica_concept_poster.pdf"><img width="80%" alt="Screenshot 2024-07-17 at 4 40 13 AM" src="https://github.com/user-attachments/assets/ce630741-073a-4f48-9f55-b3b680ce99af"></a>
 
-<img width="80%" alt="Screenshot 2024-07-17 at 4 40 13 AM" src="https://github.com/user-attachments/assets/ce630741-073a-4f48-9f55-b3b680ce99af">
-
-
-
-2010 - 
+2010 - Introduce the Archivematica vision and roadmap as a [paper at the 7th International Conference on Preservation of Digital Objects](https://vangarderen.net/assets/pdfs/iPres2010_Using_MicroServices_and_Open_Source_Software.pdf) (iPres) in Vienna, Austria
