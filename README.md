@@ -1,6 +1,10 @@
 # Arkly research notes
 The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of several years of archival science research and development carried out by @peterVG.
 
+
+
+-----
+
 # How it started
 2005 - University of Amsterdam PhD research question: Can the integration of institutional archival collections with personal digital archives create new or enhanced collective memories? If so, how?
 
