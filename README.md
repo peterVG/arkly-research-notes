@@ -38,3 +38,5 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 2016 - Research the potential value of blockchain technology for use in archives management software. [Report on early findings](https://www.slideshare.net/slideshow/introduction-to-blockchain-and-recordkeeping/59283106) to the Australian Record-Keeping Roundtable.
 
+2016 - Publish the "[Decentralized Autonomous Collections](https://vangarderen.net/posts/decentralized-autonomous-collections.html)" Medium article to present the concept of self-sustaining, non-institutional archival collections.
+
