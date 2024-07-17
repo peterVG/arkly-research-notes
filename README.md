@@ -53,4 +53,7 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 2024 - [Arkly.io](https://www.arkly.io/about/)
 
 
+![GSqa6y6WAAA0lZR](https://github.com/user-attachments/assets/b33042fc-deb1-462a-96d4-37f6fbdb8d96)
+
+
 
