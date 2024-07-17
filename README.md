@@ -33,3 +33,8 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 2010 - Introduce the Archivematica vision and roadmap as a [paper at the 7th International Conference on Preservation of Digital Objects](https://vangarderen.net/assets/pdfs/iPres2010_Using_MicroServices_and_Open_Source_Software.pdf) (iPres) in Vienna, Austria
 
 2012 - Report on Archivematica project milestones in a [paper at the 10th iPres conference](https://vangarderen.net/assets/pdfs/iPres2013-Realizing_the_Archivematica_vision.pdf).
+
+--------
+
+2016 - Research the potential value of blockchain technology for use in archives management software. [Report on early findings](https://www.slideshare.net/slideshow/introduction-to-blockchain-and-recordkeeping/59283106) to the Australian Record-Keeping Roundtable.
+
