@@ -14,8 +14,7 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 2007 - Opening thesis chapters to define the domain of archives access systems
 - [Archival materials: A practical definition](https://vangarderen.net/posts/archival-materials-a-practical-definition.html)
-
-2007 - [What is information anyway?](https://vangarderen.net/posts/what-is-information-anyway.html)
+- [What is information anyway?](https://vangarderen.net/posts/what-is-information-anyway.html)
 
 2007 - Create an archives access system for institutions. Release it as free and open-source software to encourage adoption and mutual shared benefits: [ICA-AtoM](https://ica-atom.org)
 
