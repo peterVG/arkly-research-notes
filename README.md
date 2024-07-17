@@ -10,9 +10,10 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 <img width="75%" alt="Screenshot 2024-07-16 at 9 14 10 PM" src="https://github.com/user-attachments/assets/75d6113b-daf1-4998-8b85-2321eabc8e23">
 
+
+
 2007 - Opening chapters to define the domain of archives access systems
 - [Archival materials: A practical definition](https://vangarderen.net/posts/archival-materials-a-practical-definition.html)
-
 
 - [What is information anyway?](https://vangarderen.net/posts/what-is-information-anyway.html)
 
