@@ -16,5 +16,3 @@ The [Arkly.io](https://arkly.io/about/) concept is the outcome of several years 
 - [ ] define Arkly domain model
 - [ ] draft Arkly glossary
 - [ ] draft user stories & software requirements
-- [ ] develop a MVP for semantic, user-first, note-taking app/system
-
