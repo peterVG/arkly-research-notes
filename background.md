@@ -13,15 +13,18 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 - [Archival materials: A practical definition](https://vangarderen.net/posts/archival-materials-a-practical-definition.html)
 - [What is information anyway?](https://vangarderen.net/posts/what-is-information-anyway.html)
 
-2005 - 2007 - Define requirements for institutional archives system. Draft concept diagram to add in system requirements and software architecture decisions.
+2005 - 2007 - Define requirements for institutional archives system. 
+
+Create concept diagram to add in system requirements and software architecture decisions:
 
 <img width="75%" alt="Screenshot 2024-07-16 at 9 14 10 PM" src="https://github.com/user-attachments/assets/75d6113b-daf1-4998-8b85-2321eabc8e23">
 
-2007 - Create an archives access system for institutions. Release it as free and open-source software to encourage adoption and mutual shared benefits: [ICA-AtoM](https://ica-atom.org)
 
 -------
 
 ## ICA-AtoM
+
+2007 - Create an archives access system for institutions. Release it as free and open-source software to encourage adoption and mutual shared benefits: [ICA-AtoM](https://ica-atom.org)
 
 2009 - Present findings of the ICA-AtoM prototyping work as a [paper at the Association of Brazilian Archivists](https://vangarderen.net/assets/pdfs/VanGarderen_TheICA-AtoMProjectAndTechnology_AAB_RioDeJaniero_16-17March2009.pdf) conference in Rio de Janiero.
 
