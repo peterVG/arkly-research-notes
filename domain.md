@@ -3,3 +3,10 @@ Arkly is developing using [Domain-Driven Design](https://en.wikipedia.org/wiki/D
 
 # Arkly domain diagram
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
