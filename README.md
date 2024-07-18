@@ -8,8 +8,9 @@ The [Arkly.io](https://arkly.io/about/) concept is the outcome of several years 
 
 # Current work
 
-- [x] draft R&D chronology as a background page
+- [x] draft R&D chronology as a [background page](background.md)
 - [ ] define Arkly domain model
-- [ ] define Arkly glossary
-- [ ] get to an MVP for semantic, user-first, note-takig app/system
+- [ ] draft Arkly glossary
+- [ ] draft user stories & software requirements
+- [ ] develop a MVP for semantic, user-first, note-taking app/system
 
