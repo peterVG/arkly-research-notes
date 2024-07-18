@@ -8,6 +8,10 @@ The [Arkly.io](https://arkly.io/about/) concept is the outcome of several years 
 
 # Current work
 
+
+- [x] develop and maintain [Arkly API](https://api.arkly.io/docs)
+   - [x] generate Bagit archival packages
+   - [x] read and write to [Arweave](https://arweave.org) decentralized storage
 - [x] draft R&D chronology as a [background page](background.md)
 - [ ] define Arkly domain model
 - [ ] draft Arkly glossary
