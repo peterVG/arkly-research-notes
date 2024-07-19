@@ -15,6 +15,6 @@ The [Arkly.io](https://arkly.io/about/) concept is the outcome of several years 
    - [x] [Orcfax](https://orcfax.io) integration
    - [ ] [Landano](https://landano.io) integration 
 - [x] draft R&D chronology as a [background page](background.md)
-- [ ] define Arkly domain model
+- [ ] define Arkly [domain model](domain.md)
 - [ ] draft Arkly glossary
 - [ ] draft user stories & software requirements
