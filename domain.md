@@ -7,6 +7,6 @@ Arkly is developing using [Domain-Driven Design](https://en.wikipedia.org/wiki/D
 flowchart TD;
       A[Agent] -->|performs| B(Event);
       A[Agent] -->|is responsible for| C(Function);
-      B-->D;
-      C-->D;
+      C -->|consists of| B;
+      B -->|creates| D(Archival material);
 ```
