@@ -64,4 +64,5 @@ Create concept diagram to add in system requirements and software architecture d
 
 2024 - [Arkly.io](https://www.arkly.io/about/)
 
-![4](https://github.com/user-attachments/assets/a6ab8851-e6ee-4d30-896f-7a3a104d89e3)
+![4](https://github.com/user-attachments/assets/b25c4761-786d-41e3-b42c-7194372d2968)
+
