@@ -7,7 +7,8 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 ## University of Amsterdam PhD thesis
 2005 - University of Amsterdam PhD research question: Can the integration of institutional archival collections with personal digital archives create new or enhanced collective memories? If so, how?
 
-<img width="75%" alt="Screenshot 2024-07-16 at 8 34 37 PM" src="https://github.com/user-attachments/assets/2791d079-a0ca-4d7a-a3c3-e3c4465c3365">
+<img width="75%" alt="1" src="https://github.com/user-attachments/assets/f813e2b6-c3fc-4126-bb94-68f517542432">
+
 
 2007 - Opening thesis chapters to define the domain of archives access systems
 - [Archival materials: A practical definition](https://vangarderen.net/posts/archival-materials-a-practical-definition.html)
