@@ -3,6 +3,18 @@ Arkly is developing using [Domain-Driven Design](https://en.wikipedia.org/wiki/D
 
 # Arkly domain diagram
 
+## Version 1
+
+```mermaid
+flowchart TD;
+      A[Agent] -->|performs| B(Event);
+      A[Agent] -->|is responsible for| C(Function);
+      C -->|consists of| B;
+      B -->|creates| D(Archival material);
+```
+
+## Version 2
+
 ```mermaid
 flowchart TD;
       A[Agent] -->|performs| B(Event);
