@@ -18,8 +18,7 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 Create concept diagram to add in system requirements and software architecture decisions:
 
-<img width="75%" alt="Screenshot 2024-07-16 at 9 14 10 PM" src="https://github.com/user-attachments/assets/75d6113b-daf1-4998-8b85-2321eabc8e23">
-
+<img width="75%" alt="2" src="https://github.com/user-attachments/assets/876a1aa8-774b-44de-b923-db041d360bde">
 
 -------
 
@@ -37,7 +36,7 @@ Create concept diagram to add in system requirements and software architecture d
 
 2009 - Begin research and development for a "back-end" digital preservation component to integrate with AtoM.
 
-<a href="https://vangarderen.net/assets/pdfs/IDCC2010-Archivematica_concept_poster.pdf"><img width="80%" alt="Screenshot 2024-07-17 at 4 40 13 AM" src="https://github.com/user-attachments/assets/ce630741-073a-4f48-9f55-b3b680ce99af"></a>
+[IDCC2010-Archivematica_concept_poster.pdf](https://github.com/user-attachments/files/16316559/IDCC2010-Archivematica_concept_poster.pdf)
 
 2010 - Introduce the [Archivematica](https://archivematica.org) vision and roadmap as a [paper at the 7th International Conference on Preservation of Digital Objects](https://vangarderen.net/assets/pdfs/iPres2010_Using_MicroServices_and_Open_Source_Software.pdf) (iPres) in Vienna, Austria
 
@@ -63,8 +62,4 @@ Create concept diagram to add in system requirements and software architecture d
 
 2024 - [Arkly.io](https://www.arkly.io/about/)
 
-
-![GSqa6y6WAAA0lZR](https://github.com/user-attachments/assets/b33042fc-deb1-462a-96d4-37f6fbdb8d96)
-
-
-
+![4](https://github.com/user-attachments/assets/a6ab8851-e6ee-4d30-896f-7a3a104d89e3)
