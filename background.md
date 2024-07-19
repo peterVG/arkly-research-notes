@@ -36,7 +36,9 @@ Create concept diagram to add in system requirements and software architecture d
 
 2009 - Begin research and development for a "back-end" digital preservation component to integrate with AtoM.
 
-[IDCC2010-Archivematica_concept_poster.pdf](https://github.com/user-attachments/files/16316559/IDCC2010-Archivematica_concept_poster.pdf)
+<a href="https://github.com/user-attachments/files/16316559/IDCC2010-Archivematica_concept_poster.pdf">
+<img width="75%" alt="Screenshot 2024-07-19 at 12 50 48 PM" src="https://github.com/user-attachments/assets/7c5e73fa-94ed-4c4c-b8ca-ef187a093ad2">
+</a>
 
 2010 - Introduce the [Archivematica](https://archivematica.org) vision and roadmap as a [paper at the 7th International Conference on Preservation of Digital Objects](https://vangarderen.net/assets/pdfs/iPres2010_Using_MicroServices_and_Open_Source_Software.pdf) (iPres) in Vienna, Austria
 
