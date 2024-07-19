@@ -3,7 +3,10 @@ Arkly is developing using [Domain-Driven Design](https://en.wikipedia.org/wiki/D
 
 # Arkly domain diagram
 
-## Version 1
+
+
+
+## Version 3
 
 ```mermaid
 flowchart TD;
@@ -11,6 +14,14 @@ flowchart TD;
       A -->|is responsible for| C(Function);
       C -->|consists of| B;
       B -->|creates| D[Archival material];
+      F[Creator] -->|is a type of| A;
+      E[Researcher] -->|is a type of| A;
+      E -->|requests| D;
+      G[Archival repository] -->|provides access to| D;
+      G -->|is a type of| A;
+      H[Archivist] -->|performs functions for| G;
+      H -->|is a type of| A;
+      H -->|describes| D;
 ```
 
 ## Version 2
@@ -24,4 +35,14 @@ flowchart TD;
       F[Creator] -->|is a type of| A;
       E[Researcher] -->|is a type of| A;
       E -->|requests| D;
+```
+
+## Version 1
+
+```mermaid
+flowchart TD;
+      A[Agent] -->|performs| B(Event);
+      A -->|is responsible for| C(Function);
+      C -->|consists of| B;
+      B -->|creates| D[Archival material];
 ```
