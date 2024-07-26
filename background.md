@@ -16,7 +16,7 @@ The Arkly.io [concept](https://www.arkly.io/tag/features/) is the outcome of sev
 
 2005 - 2007 - Define requirements for institutional archives system. 
 
-Create concept diagram to add in system requirements and software architecture decisions:
+Create concept diagram to aid in system requirements and software architecture decisions:
 
 <img width="75%" alt="2" src="https://github.com/user-attachments/assets/876a1aa8-774b-44de-b923-db041d360bde">
 
